@@ -1,6 +1,6 @@
 # Typescript with React and Redux
 
-Example of Typescript with React and Redux. This example is of fetching NPM packages from NPM API.
+Example of fetching npm packages from npm API using Typescript with React and Redux.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
